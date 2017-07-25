@@ -34,6 +34,6 @@ How to find the meeting point, in 4 easy steps.
 ![image of treasure map 004](https://github.com/hackerwomen/dc25badge/blob/master/map-004.jpeg)
 
 ## May the games begin!
-*And reach out on Twitter if you need us!*
+*And reach out on Twitter if you need us*
 
-Happy DEFCON 25! (note: please try to get some sleep after breakfast - 3 hours of sleep per 24 hours is the DEFCON rule :-)
+Happy DEFCON 25! Please try to get some sleep after breakfast - 3 hours of sleep per 24 hours is the DEFCON rule :-)
