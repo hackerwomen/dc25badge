@@ -1,14 +1,14 @@
 ###### Find [@HackerWomen](https://twitter.com/hackerwomen) on twitter for our activities throughout DEFCON 25.
-# DEFCON 25 Hacker Women Badge &amp; Breakfast
-##### *Join Hacker Women at Caesar's Palace at 0500HRS to make the annual DEFCON badge run.  At 0800HRS, we'll meet at Cafe Americano for breakfast.*
+# DEFCON 25 Hacker Women Badge &amp; Breakfast #OpBadge
+##### *Join Hacker Women at Caesar's Palace at 0500HRS to make the annual DEFCON badge/registration run.  At 0800HRS, we'll meet at Cafe Americano for breakfast.*
 
 Say you're going to DEFCON 25, and you'd like to team with other cool hacker women to play the CTFs and do hacker con stuff. So get to sleep early on Wednesday, and awake before the sun for the DC25 Hacker Women Badge & Breakfast Meetup!
 
 ## About
 
-Hacker Women run DEFCON badge registration like a pirate operation: Boots to ground at 5am; we join the hordes of zombies by 5:30am. Some of us drink coffee, others vodka. Whatever your taste, by 7am we're fully badged inside DEFCO, and we have a great time! After reg, over breakfast, we'll meet and greet with the awesome women of DEFCON. We make new friends, figure out our conference plans together.  Most critical, this is an opportunity to join with Hacker Women teams for a contest you're coveting, and get in line for contest registrations which begin early in the day when many attendees are still linging up for badges!  Last year the Hacker Women team competed in SECTF and Packet Hacking Village, in DC23 we focused our energies on lockpicking and DC Parties ~ what we do this year is completely up to you!
+Hacker Women run our DEFCON badge/registration mission like a pirate operation: Boots to ground at 5am; we join the hordes of zombies by 5:30am. Some of us drink coffee, others vodka. Whatever your taste, by 7am we're fully badged inside DEFCON, and we have a great time! After reg, over a solid breakfast, we'll meet and greet with the awesome women of DEFCON. We make new friends, figure out our conference plans together.  Most critical, this is an opportunity to join Hacker Women to propose teaming with us for a contest you're coveting. You'll have plenty of time to catch a few Zzz's by the poolside before signing up early for contest registrations when they open around 1pm.  Many attendees will be lining up for reg at this time, so it's good to get in early in order to max your opportunities at DEFCON!  Last year the Hacker Women team competed in SECTF and Packet Hacking Village, in DC23 we focused our energies on lockpicking and DC Parties ~ what we do this year is completely up to you! If you're teaming with Hacker Women, be sure to sign up for the contest with the team name, @HackerWomen.
 
-This meetup is open to the women of DEFCON, their families, and their guests.
+#OpBadge is open to all women of DEFCON.  We invite women to bring their friends and family along ~ after all, we don't want to split ya away from your hacker fam to come see us!
 
 ## The Meeting Point
 **Arrive to the meeting point at 0430HRS; Depart for Registration at 0500HRS *sharp*.
