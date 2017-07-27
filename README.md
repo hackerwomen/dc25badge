@@ -1,8 +1,10 @@
 ###### Find [@HackerWomen](https://twitter.com/hackerwomen) on twitter for our activities throughout DEFCON 25.
 # DEFCON 25 Hacker Women Badge &amp; Breakfast #OpBadge
-##### *Join Hacker Women at Caesar's Palace at 0500HRS to make the annual DEFCON badge/registration run.  At 0800HRS, we'll meet at Cafe Americano for breakfast.*
+![image of hacker women header](https://github.com/hackerwomen/dc25badge/blob/master/hackerwomen-ISS_header-001.png)
 
-Say you're going to DEFCON 25, and you'd like to team with other cool hacker women to play the CTFs and do hacker con stuff. So get to sleep early on Wednesday, and awake before the sun for the DC25 Hacker Women Badge & Breakfast Meetup!
+### *Join Hacker Women at Caesar's Palace at 0500HRS to make the annual DEFCON badge/registration run.  At 0800HRS, we'll meet at Cafe Americano for breakfast.*
+# 
+Say you're going to DEFCON 25, and you'd like to team with other cool women at defcon to compete in the CTFs and check out [@defconparties](https://twitter.com/defconparties). So get to sleep early on Wednesday, and awake before the sun for #OpBadge - DC25 Hacker Women Badge & Breakfast Meetup!
 
 ## About
 
