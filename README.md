@@ -4,7 +4,7 @@
 
 ### *Join Hacker Women at Caesar's Palace at 0500HRS to make the annual DEFCON badge/registration run.  At 0800HRS, we'll meet at Cafe Americano for breakfast.*
 # 
-Say you're going to DEFCON 25, and you'd like to team with other cool women at defcon to compete in the CTFs and check out [@defconparties](https://twitter.com/defconparties). So get to sleep early on Wednesday, and awake before the sun for #OpBadge - DC25 Hacker Women Badge & Breakfast Meetup!
+Say you're going to DEFCON 25, and you'd like to team with other cool women at defcon to compete in the CTFs and check out [@defconparties](https://twitter.com/defconparties).  This meetup was designed to bring together women ahead of the conference to maximize our time together inside the arena.
 
 ## About
 
